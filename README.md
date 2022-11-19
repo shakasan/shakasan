@@ -83,7 +83,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height="30" width="42" alt="yunohost logo"  />
 </div>
 
-### :bust_in_silhouette: Find me on
+### :bust_in_silhouette: Follow me
 
 <div align="left">
     <a rel="me" href="https://mamot.fr/@makoto" target="_blank">
@@ -93,5 +93,3 @@
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
     </a>
 </div>
-
-<a rel="me" href="https://mamot.fr/@makoto">Mastodon</a>
