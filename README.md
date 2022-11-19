@@ -5,9 +5,9 @@
 - My name is Francois B (Makoto)
 - :computer: I'm a (Web)Dev(Ops) from Belgium
 - :penguin: FOSS & GNU/Linux enthusiast
-- :heart: Love to code and alway looking for new technologies, IT stuff to test, a new idea of project to code, ...
+- :heart: Love to code and alway looking for new technologies, IT stuff to test, a new idea of project to code, a new framework to test ...
 - :sushi: Like things such as Japan, Anime, Music !!!, Photography, Gaming, ...
-- :innocent: Also working with SAP techs (HANA, SAC, ...)
+- :innocent: Also working with SAP techs (SAP HANA, SAP Analytics Cloud, SAP Cloud Connector, ...)
 
 #### :fire: My Stats
 
