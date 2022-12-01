@@ -86,6 +86,7 @@
 ### :bust_in_silhouette: Follow me
 
 <div align="left">
+    <link rel="me" href="https://mamot.fr/@makoto" target="_blank">
     <a rel="me" href="https://mamot.fr/@makoto" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=2a8bd2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
     </a>
