@@ -26,7 +26,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
     <img src="https://www.cacti.net/images/logo.svg" height="30" width="26" alt="cacti logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" width="42" alt="composer logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" width="42" alt="confluence logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
@@ -86,7 +85,6 @@
 ### :bust_in_silhouette: Follow me
 
 <div align="left">
-    <link rel="me" href="https://mamot.fr/@makoto" target="_blank">
     <a rel="me" href="https://mamot.fr/@makoto" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=2a8bd2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
     </a>
