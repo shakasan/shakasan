@@ -58,8 +58,9 @@
     <img src="https://avatars.githubusercontent.com/u/9979117?s=400&v=4" height="30" width="42" alt="opnsense logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" width="42" alt="phpstorm logo"  />
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Pi-hole_vector_logo.svg/258px-Pi-hole_vector_logo.svg.png" height="30" width="28" alt="pi-hole logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Pi-hole_vector_logo.svg/258px-Pi-hole_vector_logo.svg.png" height="38" width="28" alt="pi-hole logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+    <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-stacked-color-bg-sm.png" height="40" width="42" alt="promox logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" width="42" alt="raspberrypi logo"  />
