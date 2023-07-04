@@ -1,6 +1,4 @@
-<div align="right">
 ![MakotoNoBLog](gnu.png)
-</div>
 
 - My name is Francois B (Makoto)
 - :computer: I'm a (Web)Dev(Ops) from Belgium
