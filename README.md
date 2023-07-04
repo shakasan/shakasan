@@ -1,4 +1,6 @@
+<div align="right">
 ![MakotoNoBLog](gnu.png)
+</div>
 
 - My name is Francois B (Makoto)
 - :computer: I'm a (Web)Dev(Ops) from Belgium
@@ -12,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=shakasan" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
+<div align="center">
     <a rel="me" href="https://mamot.fr/@makoto" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=2a8bd2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
     </a>
