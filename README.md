@@ -8,6 +8,10 @@
 - :innocent: Also working with SAP techs (SAP HANA, SAP Analytics Cloud, SAP Cloud Connector, ...)
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakasan&theme=default alt="stats graph" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=shakasan" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=shakasan" height="150" alt="languages graph"  />
 </div>
