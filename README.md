@@ -8,7 +8,7 @@
 - :innocent: Also working with SAP techs (SAP HANA, SAP Analytics Cloud, SAP Cloud Connector, ...)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakasan&theme=default alt="stats graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakasan&theme=default" alt="stats graph" />
 </div>
 
 <div align="center">
