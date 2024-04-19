@@ -8,6 +8,18 @@
 - :innocent: Also working with SAP techs (SAP HANA, SAP Analytics Cloud, SAP Cloud Connector, ...)
 
 <div align="center">
+    <a rel="me" href="https://mamot.fr/@makoto" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=2a8bd2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
+    </a>
+    <a href="http://twitter.com/MakotoNoBlog" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    </a>
+    <a href="https://me.exoseed.be/@francois" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=My Links&logo=&label=&color=1E73BE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="links logo"  />
+    </a>
+</div>
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakasan&theme=default" alt="stats graph" />
 </div>
 
@@ -18,16 +30,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shakasan&margin-w=5&theme=default" alt="trophy" />
-</div>
-
-<div align="center">
-    <a rel="me" href="https://mamot.fr/@makoto" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=2a8bd2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
-    </a>
-    <a href="http://twitter.com/MakotoNoBlog" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-    </a>
-    <a href="https://me.exoseed.be/@francois" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=My Links&logo=&label=&color=1E73BE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="links logo"  />
-    </a>
 </div>
